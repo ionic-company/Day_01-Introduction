@@ -14,6 +14,12 @@
 
 ## In welchem Verzeichnis leigen die Dateien für die beiden Seiten `home` und `list`
 
+| Antwort |        |
+| :------ | :----- |
+| home    | ?      |
+| list    | ?      |
+
+
 ## In welchem Verzeichnis liegt die Startdatei eurer Anwendung `index.html`
 
 ## In welchen Dateiene wird der Inhalt eurer Anwendung gespeichert , z. B. der Aufbau, die Überschriften, die Inhalte und Bilder
