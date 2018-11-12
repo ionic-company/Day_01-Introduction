@@ -1,17 +1,13 @@
 # Site settings
-title: Willian Justen - Desenvolvedor Front End
-description: A blog about lorem ipsum dolor sit amet
-baseurl: "/cards-jekyll-template" # the subpath of your site, e.g. /blog
-url: "https://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: Ionic Team - Basic Course
+description: A blog about learning ionic
+baseurl: "/"
 
 # User settings
 username: Lorem Ipsum
 user_description: Anon Developer at Lorem Ipsum Dolor
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+email: training@ionicteam-de
+github_username:  ionic-training
 
 # Build settings
 markdown: kramdown
